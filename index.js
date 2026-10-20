@@ -53,4 +53,4 @@ client.on('ready', async () => {
 });
 
 // ⚠️ تحذير: بعد تغيير باسور ديسكورد لحماية حسابك، ضع التوكن الجديد هنا
-client.login("MTEzOTg3MzkzNDAxMjA3MTk0Nw.Gd_qZE.Nyb0JvDI-r5oi3ossQ6nU4YcsVe7yXshSLxCb0"); 
+client.login("MTEzOTg3MzkzNDAxMjA3MTk0Nw.Gq8fsC.kWBQv6_3B59kO7gXSsUyEzFxpXH8oPGqYsksrQ"); 
